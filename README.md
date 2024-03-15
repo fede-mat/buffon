@@ -12,7 +12,7 @@ needleLength: Length of the needle
 lineSpacing: Spacing between parallel lines
 boardWidth: Width of the board
 Getting Started
-To run the simulation, ensure you have MATLAB installed on your system. Clone this repository and execute the BuffonsNeedleSimulation.m file. Adjust the parameters as desired to explore different scenarios.
+To run the simulation, ensure you have MATLAB installed on your system. Clone this repository and execute the needle.m file. Adjust the parameters as desired to explore different scenarios.
 
 Results
 The simulation provides:
@@ -36,3 +36,6 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 Acknowledgments
 This code is inspired by Buffon's Needle Experiment and aims to provide a visual understanding of the problem.
 Special thanks to Georges-Louis Leclerc, Comte de Buffon for proposing this intriguing problem.
+
+Note
+I'll try to release a R version as soon as possible in order to use others probability distribution for sampling the data.
